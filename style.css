@@ -10,20 +10,20 @@ body{
 	margin: 0 auto;
 }
 .top{
-	background: url(../img/bg-top.png) repeat-x;
+	background: url(bg-top.png) repeat-x;
 	height: 252px;
 }
 .logo{
-	background: url(../img/top.png) no-repeat;
+	background: url(top.png) no-repeat;
 	height: 314px;
 }
 .content{
-	background: url(../img/content.png) repeat-y;
+	background: url(content.png) repeat-y;
 }
 .content-desc{
 	padding: 1px 90px;
 }
 .bottom{
-	background: url(../img/bottom.png) no-repeat;
+	background: url(bottom.png) no-repeat;
 	height: 160px;
 }
